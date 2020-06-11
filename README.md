@@ -9,8 +9,6 @@ idea data model tools
 
 效果
 ```java
-package com.hntxrj.txerp.entity;
-
 import java.math.BigDecimal;
 import java.sql.*;
 import lombok.Data; 
